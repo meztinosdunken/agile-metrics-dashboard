@@ -9,7 +9,7 @@
     "server": "nodemon server.js",
     "dev": "concurrently \"npm run server\" \"npm run client\""
   },
-  "author": "Your Name",
+  "author": "Updated Author Name",
   "license": "MIT",
   "dependencies": {
     "express": "^4.17.1",
